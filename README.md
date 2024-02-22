@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Redz
 - 👀 I’m interested in sofware and web development
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently Python 
 - 💞️ I’m looking to collaborate on Aviation and anything related to transportation
 - 📫 reach me @ https://www.linkedin.com/in/ridah-s-a9850492/
 
