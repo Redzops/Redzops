@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Redz
+- 👋 Hi, I’m Ridah Shoorbajee
 - 👀 I’m interested in software and web development
 - 🌱 I’m currently working with back end engineers to improve SQL query efficiency 
 - 💞️ I’m looking to collaborate on aviation related data and anything related to transportation data
