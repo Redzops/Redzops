@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Redz
 - 👀 I’m interested in software and web development
-- 🌱 I’m currently improving my Python skills
-- 💞️ I’m looking to collaborate on Aviation and anything related to transportation
+- 🌱 I’m currently working with back end engineers to improve SQL query efficiency 
+- 💞️ I’m looking to collaborate on aviation related data and anything related to transportation data
 - 📫 reach me @ https://www.linkedin.com/in/ridah-s-a9850492/
 
 <!---
